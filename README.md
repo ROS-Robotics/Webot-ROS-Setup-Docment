@@ -4,4 +4,5 @@
 
 # Webot-ROS-软件安装说明
 安装机器人WeBot相关软件步骤WiKi
-详见：https://github.com/ROS-Robotics/Webot-ROS-Setup-Docment/wiki/WeBot--%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%EF%BC%88ROS%E7%B3%BB%E7%BB%9F%E5%8F%8A%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%EF%BC%89
+详见：https://github.com/ROS-Robotics/Webot-ROS-Setup-Docment/wiki/WeBot--软件安装（ROS系统及软件安装）
+
